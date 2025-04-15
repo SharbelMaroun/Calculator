@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Main-Class: org.example.Main
 
+=======
+Manifest-Version: 1.0
+Main-Class: org.example.Main
+
+>>>>>>> e8c552919075a62c170d2d1b869d09eabfe23a62
